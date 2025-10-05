@@ -67,7 +67,7 @@ html {
 }
 
 .hero {
-  background-image: url("/Photos/rm378-09c.jpg");
+  background-image: url("Photos/rm378-09c.jpg");
   background-color: grey;
   background-blend-mode: multiply;
   background-size: cover;
